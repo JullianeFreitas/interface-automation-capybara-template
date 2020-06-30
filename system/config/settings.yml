@@ -1,0 +1,5 @@
+url: "https://automacaocombatista.herokuapp.com/treinamento/home"
+log_file_path: "log/"
+project_code: "project-base-auto"
+project_name: "Projeto base para testes automatizados"
+save_evidences: off
